@@ -1,1 +1,156 @@
 /* All style should go in this document. */
+.Nav a {
+  color: #5a5a5a;
+  font-size: 11px;
+  font-weight: bold;
+  padding: 14px 10px;
+  text-transform: uppercase;
+}
+
+.Nav li{
+	display: inline;
+	text-align: center;
+}
+
+.Nav .container{
+	padding-left: 100px;
+	padding-top: 9px;
+}
+
+.Jumbotron{
+	height: 900px;
+	background-image: url(http://www.hdpaperz.com/wallpaper/original/23403-1920x1200.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.Jumbotron .container{
+	position: relative;
+	
+}
+
+.Jumbotron h1{
+	color: #fff;
+	font-size: 66px;
+	font-family: 'Shift', sans-serif;
+	font-weight: bold;
+	text-align: center;
+	padding-top: 100px;
+
+}
+
+.Contact{
+	background-color: #e2e3e4;
+
+}
+
+.Contact h3{
+	font-size: 36px;
+	text-align: center;
+}
+
+.Contact p{
+	font-size: 20px;
+	font-weight: bold;
+	text-align: center;
+}
+
+.About{
+	background-color: #e2e3e4;
+}
+
+.About h3{
+	font-size: 36px;
+	text-align: center;
+}
+
+.About p{
+	font-size: 20px;
+	font-weight: bold;
+	text-align: center;
+}
+
+.Education{
+	background-color: #e2e3e4;
+
+}
+
+.Education h3{
+	font-size: 36px;
+	text-align: center;
+}
+
+.Education p{
+	font-size: 20px;
+	font-weight: bold;
+	text-align: center;
+}
+
+.Skills{
+	background-color: #e2e3e4;
+
+}
+
+.Skills h3{
+	font-size: 36px;
+	text-align: center;
+}
+
+.Skills p{
+	font-size: 20px;
+	font-weight: bold;
+	text-align: center;
+}
+
+.Coursework{
+	background-color: #e2e3e4;
+
+}
+
+.Coursework h3{
+	font-size: 36px;
+	text-align: center;
+}
+
+.Coursework p{
+	font-size: 20px;
+	font-weight: bold;
+	text-align: center;
+}
+
+.Work{
+	background-color: #e2e3e4;
+
+}
+
+.Work h3{
+	font-size: 36px;
+	text-align: center;
+}
+.Work h2{
+	font-size: 32px;
+	text-align: center;
+	font-weight: bold;
+}
+
+.Work p{
+	font-size: 20px;
+	font-weight: bold;
+	text-align: center;
+}
+
+.Clubs{
+	background-color: #e2e3e4;
+
+}
+
+.Clubs h3{
+	font-size: 36px;
+	text-align: center;
+}
+
+.Clubs p{
+	font-size: 20px;
+	font-weight: bold;
+	text-align: center;
+}
