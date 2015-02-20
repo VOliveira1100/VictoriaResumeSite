@@ -124,7 +124,7 @@
 }
 
 .Coursework{
-	color: ;
+	color: #3A3A3A;
 	text-align: center;
 }
 
@@ -146,21 +146,29 @@
 .Coursework table th{
 	font-size: 26px;
 	font-weight: bold;
+	color: white;
 }
 
 .Coursework table td{
 	font-size: 20px;
 }
 
-.Work{
+.Coursework caption{
+	font-size: 30px;
+	font-weight: bold;
+}
 
+.Work{
+	color: #303030;
 	text-align: center;
 }
 
 .Work h3{
+	color: #FF8300;
 	font-size: 36px;
-
+	text-shadow: 2px 2px 1px #E18700;
 }
+
 .Work h2{
 	font-size: 32px;
 	font-weight: bold;
@@ -172,12 +180,14 @@
 }
 
 .Clubs{
-
+	color: black;
 	text-align: center;
 }
 
 .Clubs h3{
+	color: ;
 	font-size: 36px;
+	text-shadow: 2px 2px 1px #E18700;
 }
 
 .Clubs p{
