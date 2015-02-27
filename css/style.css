@@ -30,11 +30,11 @@
 }
 
 .Jumbotron{
+	background: cover;
 	height: 1200px;
 	background-image: url(http://www.hdpaperz.com/wallpaper/original/23403-1920x1200.jpg);
 	background-repeat: no-repeat;
-	background: cover;
-
+	
 }
 
 .Jumbotron .container{
@@ -45,7 +45,7 @@
 .Jumbotron h1{
 	color: #fff;
 	text-shadow: 6px 6px 3px #000;
-	font-size: 70px;
+	font-size: 80px;
 	font-weight: bold;
 	text-align: center;
 	padding-top: 200px;
@@ -59,9 +59,9 @@
 }
 
 .About h3{
-	font-size: 36px;
+	font-size: 48px;
 	color: #0072BC;
-	text-shadow: 2px 2px 1px blue;
+	text-shadow: 3px 3px 2px blue;
 }
 
 .About p{
@@ -75,9 +75,9 @@
 }
 
 .Contact h3{
-	font-size: 36px;
+	font-size: 48px;
 	color: #A020F0;
-	text-shadow: 2px 2px 1px purple;
+	text-shadow: 3px 3px 2px purple;
 
 }
 
@@ -98,8 +98,8 @@
 
 .Education h3{
 	color: #CC00FF;
-	font-size: 36px;
-	text-shadow: 2px 2px 1px purple;
+	font-size: 48px;
+	text-shadow: 3px 3px 2px purple;
 }
 
 .Education p{
@@ -114,8 +114,8 @@
 
 .Skills h3{
 	color: deeppink;
-	font-size: 36px;
-	text-shadow: 2px 2px 1px #F32887;
+	font-size: 48px;
+	text-shadow: 3px 3px 2px #F32887;
 }
 
 .Skills p{
@@ -131,8 +131,8 @@
 
 .Coursework h3{
 	color: #C11B17;
-	font-size: 36px;
-	text-shadow: 2px 2px 1px #990012;
+	font-size: 48px;
+	text-shadow: 3px 3px 2px #990012;
 }
 
 .Coursework table th, td {
@@ -166,8 +166,8 @@
 
 .Work h3{
 	color: #FF8300;
-	font-size: 36px;
-	text-shadow: 2px 2px 1px #E18700;
+	font-size: 48px;
+	text-shadow: 3px 3px 2px #E18700;
 }
 
 .Work h2{
@@ -187,8 +187,8 @@
 
 .Clubs h3{
 	color: #FFFF00;
-	font-size: 36px;
-	text-shadow: 2px 2px 1px #E18700;
+	font-size: 48px;
+	text-shadow: 3px 3px 2px #E18700;
 }
 
 .Clubs p{
