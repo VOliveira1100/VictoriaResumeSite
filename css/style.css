@@ -12,7 +12,7 @@
 
 .Nav a {
   color: #fff;
-  font-size: 11px;
+  font-size: 20px;
   font-weight: bold;
   padding: 14px 10px;
   text-transform: uppercase;
@@ -33,6 +33,7 @@
 	height: 1200px;
 	background-image: url(http://www.hdpaperz.com/wallpaper/original/23403-1920x1200.jpg);
 	background-repeat: no-repeat;
+	background: cover;
 
 }
 
@@ -64,7 +65,7 @@
 }
 
 .About p{
-	font-size: 20px;
+	font-size: 22px;
 	font-weight: bold;
 }
 
@@ -81,7 +82,7 @@
 }
 
 .Contact p{
-	font-size: 20px;
+	font-size: 22px;
 	font-weight: bold;
 	
 }
@@ -102,7 +103,7 @@
 }
 
 .Education p{
-	font-size: 20px;
+	font-size: 22px;
 	font-weight: bold;
 }
 
@@ -118,7 +119,7 @@
 }
 
 .Skills p{
-	font-size: 20px;
+	font-size: 22px;
 	font-weight: bold;
 
 }
@@ -150,7 +151,7 @@
 }
 
 .Coursework table td{
-	font-size: 20px;
+	font-size: 22px;
 }
 
 .Coursework caption{
@@ -175,7 +176,7 @@
 }
 
 .Work p{
-	font-size: 20px;
+	font-size: 22px;
 	font-weight: bold;
 }
 
@@ -185,12 +186,12 @@
 }
 
 .Clubs h3{
-	color: ;
+	color: #FFFF00;
 	font-size: 36px;
 	text-shadow: 2px 2px 1px #E18700;
 }
 
 .Clubs p{
-	font-size: 20px;
+	font-size: 22px;
 	font-weight: bold;
 }
