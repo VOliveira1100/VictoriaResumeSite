@@ -34,7 +34,8 @@
 }
 
 .Nav a:hover{
-	color: lime;
+	background: linear-gradient(to right, #0072BC, #A020F0, #CC00FF, deeppink, #C11B17, #FF8300, #FFFF00);
+	
 }
 
 .Nav li{
