@@ -5,6 +5,20 @@
 	font-family: "Lucida Console", Monaco, monospace
 }
 
+#To_Top h3 a{
+	text-decoration: none;
+}
+/*This should his original text*/
+#To_Top h3 a:hover{
+	font-size: 0;
+}
+/*This should replace original text*/
+#To_Top h3 a:hover:before{
+	font-size: 43px;
+	content: attr(data-hover);
+}
+
+
 .Nav{
   background-color: #000;
 
@@ -17,6 +31,10 @@
   padding: 14px 10px;
   text-transform: uppercase;
   
+}
+
+.Nav a:hover{
+	color: lime;
 }
 
 .Nav li{
@@ -49,16 +67,14 @@
 	font-weight: bold;
 	text-align: center;
 	padding-top: 200px;
-
 }
-
 
 .About{
 	color: #fff;
 	text-align: center;
 }
 
-.About h3{
+.About h3 a{
 	font-size: 48px;
 	color: #0072BC;
 	text-shadow: 3px 3px 2px blue;
@@ -69,12 +85,13 @@
 	font-weight: bold;
 }
 
+
 .Contact{
 	color: #C6C6C6;
 	text-align: center;
 }
 
-.Contact h3{
+.Contact h3 a{
 	font-size: 48px;
 	color: #A020F0;
 	text-shadow: 3px 3px 2px purple;
@@ -96,7 +113,7 @@
 	text-align: center;
 }
 
-.Education h3{
+.Education h3 a{
 	color: #CC00FF;
 	font-size: 48px;
 	text-shadow: 3px 3px 2px purple;
@@ -112,7 +129,7 @@
 	text-align: center;
 }
 
-.Skills h3{
+.Skills h3 a{
 	color: deeppink;
 	font-size: 48px;
 	text-shadow: 3px 3px 2px #F32887;
@@ -129,7 +146,7 @@
 	text-align: center;
 }
 
-.Coursework h3{
+.Coursework h3 a{
 	color: #C11B17;
 	font-size: 48px;
 	text-shadow: 3px 3px 2px #990012;
@@ -164,7 +181,7 @@
 	text-align: center;
 }
 
-.Work h3{
+.Work h3 a{
 	color: #FF8300;
 	font-size: 48px;
 	text-shadow: 3px 3px 2px #E18700;
@@ -185,7 +202,7 @@
 	text-align: center;
 }
 
-.Clubs h3{
+.Clubs h3 a{
 	color: #FFFF00;
 	font-size: 48px;
 	text-shadow: 3px 3px 2px #E18700;
