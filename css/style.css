@@ -3,7 +3,7 @@
 #wrapper{
 	background-image: 
 	linear-gradient(to bottom, black 50%, #141414, white);
-	font-family: "Lucida Console", Monaco, monospace
+	font-family: "Lucida Console", Monaco, monospace;
 }
 
 #To_Top h3 a{
@@ -49,20 +49,20 @@
 
 }
 
-.Jumbotron{
-	background: cover;
-	height: 1200px;
+.Img{
+	
 	background-image: url(http://cdn.desktopwallpapers4.me/wallpapers/abstract/1920x1200/1/3407-light-waves-1920x1200-abstract-wallpaper.jpg);
 	background-repeat: no-repeat;
+	background-size: 100% 100%;
+    padding-bottom: 1200px
+}
+
+.Img.container{
+	
 	
 }
 
-.Jumbotron .container{
-	position: relative;
-	
-}
-
-.Jumbotron h1{
+.Img h1{
 	color: #fff;
 	text-shadow: 6px 6px 3px #000;
 	font-size: 80px;
