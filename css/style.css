@@ -1,7 +1,8 @@
 /* All style should go in this document. */
 
 #wrapper{
-	background: linear-gradient(to bottom, black, black, white);
+	background-image: 
+	linear-gradient(to bottom, black 50%, #141414, white);
 	font-family: "Lucida Console", Monaco, monospace
 }
 
@@ -51,7 +52,7 @@
 .Jumbotron{
 	background: cover;
 	height: 1200px;
-	background-image: url(http://www.hdpaperz.com/wallpaper/original/23403-1920x1200.jpg);
+	background-image: url(http://cdn.desktopwallpapers4.me/wallpapers/abstract/1920x1200/1/3407-light-waves-1920x1200-abstract-wallpaper.jpg);
 	background-repeat: no-repeat;
 	
 }
